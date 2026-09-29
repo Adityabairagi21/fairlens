@@ -1,0 +1,61 @@
+{
+  "baseline": "TRADITIONAL",
+  "alternative": "SKILLS-FIRST",
+  "configs": [
+    {
+      "config_id": "TRADITIONAL",
+      "name": "Traditional",
+      "weights": {
+        "skills": 60.0,
+        "projects": 0.0,
+        "experience": 25.0,
+        "education": 15.0
+      },
+      "description": "Listed skills, years of experience and education, as resumes are commonly screened."
+    },
+    {
+      "config_id": "SKILLS-FIRST",
+      "name": "Skills-first",
+      "weights": {
+        "skills": 70.0,
+        "projects": 20.0,
+        "experience": 10.0,
+        "education": 0.0
+      },
+      "description": "Weights demonstrated skill evidence, including projects, above tenure and credentials."
+    },
+    {
+      "config_id": "EXPERIENCE",
+      "name": "Experience-weighted",
+      "weights": {
+        "skills": 50.0,
+        "projects": 0.0,
+        "experience": 35.0,
+        "education": 15.0
+      },
+      "description": "Gives more weight to years of experience."
+    },
+    {
+      "config_id": "BALANCED",
+      "name": "Balanced evidence",
+      "weights": {
+        "skills": 45.0,
+        "projects": 20.0,
+        "experience": 20.0,
+        "education": 15.0
+      },
+      "description": "Spreads weight across all four components."
+    },
+    {
+      "config_id": "CFG001",
+      "name": "QA Projects-heavy",
+      "weights": {
+        "skills": 50.0,
+        "projects": 50.0,
+        "experience": 0.0,
+        "education": 0.0
+      },
+      "description": ""
+    }
+  ]
+}

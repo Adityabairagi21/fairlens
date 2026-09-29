@@ -1,0 +1,29 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets (none are used, but never commit them)
+.env
+.streamlit/secrets.toml
+
+# Generated at runtime
+# (the two sample reports are kept so reviewers can see the output format)
+reports/*
+!reports/.gitkeep
+!reports/candidate_report.csv
+!reports/audit_results.csv
+data/*.corrupt.json
+data/.*.tmp
+data/screening_history.json

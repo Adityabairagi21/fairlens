@@ -1,0 +1,5 @@
+candidate_id,name,email,phone,experience_years,education_level,degree,skills,target_role,projects,experience_summary
+C020,Rohan Mehta,rohan.mehta@gmail.com,9820011223,2,Bachelor's,B.E. in Information Technology,Python;SQL;Excel;Pandas,Data Analyst,Inventory analysis: Python; Pandas | Store KPIs: SQL; Excel,Two years of inventory reporting
+C021,Kavya Menon,kavya.menon@gmail.com,9447012345,2.5,Bachelor's,B.Tech in Information Technology,Python;Scikit-learn;Pandas;NumPy;Docker,Machine Learning Engineer,Fraud detection model: Python; Scikit-learn; Docker,
+C022,Tanvi Kapoor,tanvi.kapoor@gmail,9811122233,2,Bachelor's,B.Tech in Computer Science,Python;Django;PostgreSQL,Backend Developer (Python),,
+C023,Vikram Singh,vikram.singh@gmail.com,9811199887,6,Master's,M.Tech in Computer Science,Python;SQL;Apache Spark;Airflow,Data Engineer,,

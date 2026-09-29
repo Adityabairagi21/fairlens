@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "about": "FairLens skills taxonomy. 'terms' are synonyms (same skill, different wording). 'related' are narrower or neighbouring skills that count as related evidence for the concept, in one direction only: PostgreSQL is related evidence for SQL, but SQL is not evidence for PostgreSQL. Add concepts freely; every term is matched case-insensitively.",
+  "skills": {
+    "python": {
+      "label": "Python",
+      "terms": ["python", "python programming", "python development", "python 3", "python3"]
+    },
+    "machine_learning": {
+      "label": "Machine Learning",
+      "terms": ["machine learning", "ml", "machine-learning", "predictive modeling", "predictive modelling"],
+      "related": ["scikit-learn", "tensorflow", "pytorch", "xgboost", "classification model", "regression model"]
+    },
+    "deep_learning": {
+      "label": "Deep Learning",
+      "terms": ["deep learning", "dl", "neural networks", "neural network"],
+      "related": ["tensorflow", "pytorch", "keras"]
+    },
+    "scikit_learn": {
+      "label": "Scikit-learn",
+      "terms": ["scikit-learn", "sklearn", "scikit learn"]
+    },
+    "tensorflow": {
+      "label": "TensorFlow",
+      "terms": ["tensorflow", "tf", "tensorflow 2"],
+      "related": ["keras"]
+    },
+    "pytorch": {
+      "label": "PyTorch",
+      "terms": ["pytorch", "torch"]
+    },
+    "keras": {
+      "label": "Keras",
+      "terms": ["keras"]
+    },
+    "pandas": {
+      "label": "Pandas",
+      "terms": ["pandas", "pandas dataframes"]
+    },
+    "numpy": {
+      "label": "NumPy",
+      "terms": ["numpy"]
+    },
+    "statistics": {
+      "label": "Statistics",
+      "terms": ["statistics", "statistical analysis", "statistical modelling", "statistical modeling", "hypothesis testing"],
+      "related": ["regression analysis", "a/b testing", "time-series analysis"]
+    },
+    "sql": {
+      "label": "SQL",
+      "terms": ["sql", "structured query language", "sql queries", "relational databases", "relational database"],
+      "related": ["postgresql", "mysql", "sql server", "sqlite", "oracle database"]
+    },
+    "postgresql": {
+      "label": "PostgreSQL",
+      "terms": ["postgresql", "postgres"]
+    },
+    "mysql": {
+      "label": "MySQL",
+      "terms": ["mysql"]
+    },
+    "sql_server": {
+      "label": "SQL Server",
+      "terms": ["sql server", "microsoft sql server", "mssql"]
+    },
+    "excel": {
+      "label": "Excel",
+      "terms": ["excel", "ms excel", "microsoft excel", "advanced excel", "spreadsheets"],
+      "related": ["google sheets", "vba"]
+    },
+    "power_bi": {
+      "label": "Power BI",
+      "terms": ["power bi", "powerbi", "microsoft power bi"],
+      "related": ["tableau", "looker", "bi dashboards"]
+    },
+    "tableau": {
+      "label": "Tableau",
+      "terms": ["tableau"]
+    },
+    "docker": {
+      "label": "Docker",
+      "terms": ["docker", "docker compose", "dockerfile", "containerisation", "containerization"],
+      "related": ["kubernetes"]
+    },
+    "kubernetes": {
+      "label": "Kubernetes",
+      "terms": ["kubernetes", "k8s"]
+    },
+    "git": {
+      "label": "Git",
+      "terms": ["git", "version control"],
+      "related": ["github", "gitlab", "bitbucket"]
+    },
+    "django": {
+      "label": "Django",
+      "terms": ["django"],
+      "related": ["django rest framework"]
+    },
+    "flask": {
+      "label": "Flask",
+      "terms": ["flask"]
+    },
+    "rest_apis": {
+      "label": "REST APIs",
+      "terms": ["rest apis", "rest api", "restful apis", "restful api", "restful services", "rest services"],
+      "related": ["django rest framework", "fastapi", "api design"]
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "terms": ["javascript", "js", "es6"]
+    },
+    "typescript": {
+      "label": "TypeScript",
+      "terms": ["typescript", "ts"]
+    },
+    "aws": {
+      "label": "AWS",
+      "terms": ["aws", "amazon web services"],
+      "related": ["ec2", "s3", "aws lambda"]
+    },
+    "apache_spark": {
+      "label": "Apache Spark",
+      "terms": ["apache spark", "spark", "pyspark"]
+    },
+    "airflow": {
+      "label": "Airflow",
+      "terms": ["airflow", "apache airflow"]
+    }
+  }
+}

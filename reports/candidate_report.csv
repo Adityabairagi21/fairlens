@@ -1,0 +1,17 @@
+Candidate ID,Name,Job Role,Match Score,Status,Skill Coverage,Project Evidence,Experience Score,Education Score,Matched Skills,Missing Skills,Experience (Years),Education
+C002,Priya Nair,Machine Learning Engineer,92.5,Strong match,87.5,75.0,100.0,100.0,Python; Machine Learning; Scikit-learn; TensorFlow; Pandas; NumPy; SQL,Docker,3.0,Master's – M.Sc in Data Science
+C001,Aarav Sharma,Data Analyst,90.0,Strong match,83.3,50.0,100.0,100.0,Python; SQL; Excel; Pandas; Power BI,Statistics,3.0,Bachelor's – B.Tech in Computer Science
+C004,Sneha Kulkarni,Backend Developer (Python),90.0,Strong match,83.3,50.0,100.0,100.0,Python; Django; REST APIs; PostgreSQL; Git,Docker,4.0,Bachelor's – B.E. in Computer Engineering
+C014,Pooja Deshmukh,Data Analyst,83.8,Strong match,83.3,0.0,75.0,100.0,Python; SQL; Excel; Power BI; Statistics,Pandas,1.5,Master's – M.Sc in Statistics
+C006,Ananya Iyer,Data Analyst,81.2,Strong match,100.0,100.0,25.0,100.0,Python; SQL; Excel; Pandas; Power BI; Statistics,,0.5,Bachelor's – B.Sc in Statistics
+C008,Meera Joshi,Machine Learning Engineer,77.5,Strong match,62.5,37.5,100.0,100.0,Python; Machine Learning; Scikit-learn; Pandas; NumPy,TensorFlow; SQL; Docker,2.0,Bachelor's – B.Tech in Information Technology
+C011,Devansh Gupta,Backend Developer (Python),70.0,Possible match,50.0,33.3,100.0,100.0,Python; PostgreSQL; Git,Django; REST APIs; Docker,7.0,Bachelor's – B.Tech in Computer Science
+C016,Rajesh Kumar,Data Analyst,70.0,Possible match,50.0,16.7,100.0,100.0,SQL; Excel; Power BI,Python; Pandas; Statistics,8.0,Bachelor's – B.Com
+C015,Siddharth Rao,Machine Learning Engineer,66.2,Possible match,87.5,87.5,25.0,50.0,Python; Scikit-learn; TensorFlow; Pandas; NumPy; SQL; Docker,Machine Learning,0.5,Diploma – Diploma in Computer Engineering
+C012,Ishita Banerjee,Data Analyst,65.0,Possible match,83.3,83.3,0.0,100.0,Python; SQL; Excel; Pandas; Statistics,Power BI,0.0,Bachelor's – B.Com with Data Analytics minor
+C020,Aditya Sharma,Machine Learning Engineer,65.0,Possible match,62.5,37.5,50.0,100.0,Python; Machine Learning; Scikit-learn; Pandas; SQL,TensorFlow; NumPy; Docker,1.0,Bachelor's – B.Tech Computer Science
+C010,Fatima Shaikh,Machine Learning Engineer,62.5,Possible match,37.5,25.0,100.0,100.0,Python; TensorFlow; NumPy,Machine Learning; Scikit-learn; Pandas; SQL; Docker,4.0,PhD – PhD in Signal Processing
+C018,Kabir Malhotra,Machine Learning Engineer,62.5,Possible match,37.5,0.0,100.0,100.0,Python; Pandas; SQL,Machine Learning; Scikit-learn; TensorFlow; NumPy; Docker,9.0,Master's – MBA in Business Analytics
+C019,Nisha Verghese,Backend Developer (Python),52.5,Possible match,66.7,66.7,50.0,0.0,Python; Django; PostgreSQL; Git,REST APIs; Docker,1.5,High School – Higher Secondary (self-taught developer)
+C009,Arjun Reddy,Backend Developer (Python),43.3,Weak match,33.3,0.0,33.3,100.0,Python; Git,Django; REST APIs; PostgreSQL; Docker,1.0,Bachelor's – BCA
+C017,Sana Qureshi,Data Analyst,30.0,Weak match,16.7,0.0,50.0,50.0,Excel,Python; SQL; Pandas; Power BI; Statistics,1.0,Diploma – Diploma in Business Administration

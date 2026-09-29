@@ -1,0 +1,65 @@
+[
+  {
+    "job_id": "J001",
+    "title": "Data Analyst",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Excel",
+      "Pandas",
+      "Power BI",
+      "Statistics"
+    ],
+    "min_experience": 2.0,
+    "min_education": "Bachelor's",
+    "description": "Build weekly business dashboards and answer ad-hoc questions from the sales and operations teams.",
+    "created_at": "2026-09-01T10:00:00"
+  },
+  {
+    "job_id": "J002",
+    "title": "Machine Learning Engineer",
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "Scikit-learn",
+      "TensorFlow",
+      "Pandas",
+      "NumPy",
+      "SQL",
+      "Docker"
+    ],
+    "min_experience": 2.0,
+    "min_education": "Bachelor's",
+    "description": "Train, evaluate and deploy models for demand forecasting and customer churn.",
+    "created_at": "2026-09-01T10:05:00"
+  },
+  {
+    "job_id": "J003",
+    "title": "Backend Developer (Python)",
+    "required_skills": [
+      "Python",
+      "Django",
+      "REST APIs",
+      "PostgreSQL",
+      "Docker",
+      "Git"
+    ],
+    "min_experience": 3.0,
+    "min_education": "Bachelor's",
+    "description": "Own the order-management API and its PostgreSQL schema.",
+    "created_at": "2026-09-02T09:30:00"
+  },
+  {
+    "job_id": "J004",
+    "title": "QA Data Engineer",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Airflow"
+    ],
+    "min_experience": 3.0,
+    "min_education": "Bachelor's",
+    "description": "",
+    "created_at": "2026-09-29T22:38:25"
+  }
+]

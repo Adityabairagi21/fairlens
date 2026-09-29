@@ -1,0 +1,582 @@
+[
+  {
+    "candidate_id": "C001",
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@gmail.com",
+    "phone": "9876543210",
+    "experience_years": 3.0,
+    "education_level": "Bachelor's",
+    "degree": "B.Tech in Computer Science",
+    "skills": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "Excel",
+      "Power BI",
+      "Tableau"
+    ],
+    "experience_summary": "Three years as a reporting analyst in retail, maintaining Excel and Power BI reports.",
+    "projects": [
+      {
+        "project_name": "Retail sales dashboard",
+        "technologies": [
+          "Power BI",
+          "SQL",
+          "Excel"
+        ],
+        "description": "Weekly sales dashboard for a 40-store retail chain, fed by SQL views.",
+        "outcomes": "Cut weekly reporting from a full day to about an hour."
+      }
+    ],
+    "target_job_id": "J001",
+    "review": {},
+    "notes": "",
+    "created_at": "2026-09-05T10:12:00"
+  },
+  {
+    "candidate_id": "C006",
+    "name": "Ananya Iyer",
+    "email": "ananya.iyer@gmail.com",
+    "phone": "9845012345",
+    "experience_years": 0.5,
+    "education_level": "Bachelor's",
+    "degree": "B.Sc in Statistics",
+    "skills": [
+      "Python",
+      "SQL",
+      "Excel",
+      "Pandas",
+      "Power BI",
+      "Statistics"
+    ],
+    "experience_summary": "",
+    "projects": [
+      {
+        "project_name": "Hospital readmission analysis",
+        "technologies": [
+          "Python",
+          "Pandas",
+          "Statistics"
+        ],
+        "description": "Logistic regression analysis of 30-day readmissions on a public hospital dataset.",
+        "outcomes": "Identified three discharge factors linked to readmission."
+      },
+      {
+        "project_name": "Canteen sales dashboard",
+        "technologies": [
+          "Power BI",
+          "SQL",
+          "Excel"
+        ],
+        "description": "Internship project tracking daily canteen sales across two campuses.",
+        "outcomes": ""
+      }
+    ],
+    "target_job_id": "J001",
+    "review": {},
+    "notes": "",
+    "created_at": "2026-09-10T11:20:00"
+  },
+  {
+    "candidate_id": "C012",
+    "name": "Ishita Banerjee",
+    "email": "ishita.banerjee@gmail.com",
+    "phone": "9831198765",
+    "experience_years": 0.0,
+    "education_level": "Bachelor's",
+    "degree": "B.Com with Data Analytics minor",
+    "skills": [
+      "Python programming",
+      "Structured Query Language",
+      "pandas",
+      "Statistical analysis",
+      "MS Excel"
+    ],
+    "experience_summary": "",
+    "projects": [
+      {
+        "project_name": "Retail demand forecasting notebook",
+        "technologies": [
+          "Python",
+          "Pandas",
+          "Statistics"
+        ],
+        "description": "Seasonal forecasting on a public retail dataset with hypothesis testing of promotion effects.",
+        "outcomes": ""
+      },
+      {
+        "project_name": "E-commerce SQL case study",
+        "technologies": [
+          "SQL",
+          "Excel"
+        ],
+        "description": "Cohort and funnel analysis for a mock e-commerce store.",
+        "outcomes": ""
+      }
+    ],
+    "target_job_id": "J001",
+    "review": {},
+    "notes": "",
+    "created_at": "2026-09-14T09:40:00"
+  },
+  {
+    "candidate_id": "C014",
+    "name": "Pooja Deshmukh",
+    "email": "pooja.deshmukh@yahoo.in",
+    "phone": "9823012345",
+    "experience_years": 1.5,
+    "education_level": "Master's",
+    "degree": "M.Sc in Statistics",
+    "skills": [
+      "Python",
+      "R",
+      "Statistics",
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "experience_summary": "Research assistant for 18 months on survey data analysis.",
+    "projects": [],
+    "target_job_id": "J001",
+    "review": {},
+    "notes": "",
+    "created_at": "2026-09-11T15:05:00"
+  },
+  {
+    "candidate_id": "C016",
+    "name": "Rajesh Kumar",
+    "email": "rajesh.kumar@outlook.com",
+    "phone": "9811023456",
+    "experience_years": 8.0,
+    "education_level": "Bachelor's",
+    "degree": "B.Com",
+    "skills": [
+      "Excel",
+      "SQL",
+      "Power BI",
+      "Tableau",
+      "VBA"
+    ],
+    "experience_summary": "Eight years building MIS reports and Excel models for finance; writes SQL queries against the ERP database.",
+    "projects": [
+      {
+        "project_name": "Monthly MIS reporting",
+        "technologies": [
+          "Excel",
+          "VBA"
+        ],
+        "description": "Automated month-end reports for the finance team.",
+        "outcomes": ""
+      }
+    ],
+    "target_job_id": "J001",
+    "review": {},
+    "notes": "",
+    "created_at": "2026-09-07T12:30:00"
+  },
+  {
+    "candidate_id": "C017",
+    "name": "Sana Qureshi",
+    "email": "sana.qureshi@gmail.com",
+    "phone": "9920011223",
+    "experience_years": 1.0,
+    "education_level": "Diploma",
+    "degree": "Diploma in Business Administration",
+    "skills": [
+      "Excel",
+      "Tableau",
+      "Google Sheets"
+    ],
+    "experience_summary": "One year as an operations coordinator keeping stock sheets.",
+    "projects": [],
+    "target_job_id": "J001",
+    "review": {},
+    "notes": "",
+    "created_at": "2026-09-16T10:00:00"
+  },
+  {
+    "candidate_id": "C002",
+    "name": "Priya Nair",
+    "email": "priya.nair@outlook.com",
+    "phone": "+919812345670",
+    "experience_years": 3.0,
+    "education_level": "Master's",
+    "degree": "M.Sc in Data Science",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Scikit-learn",
+      "TensorFlow",
+      "Pandas",
+      "NumPy",
+      "SQL",
+      "Statistics"
+    ],
+    "experience_summary": "",
+    "projects": [
+      {
+        "project_name": "Customer churn model",
+        "technologies": [
+          "Python",
+          "Scikit-learn",
+          "Pandas"
+        ],
+        "description": "Gradient-boosted churn model.",
+        "outcomes": "Model used by the retention team for monthly campaigns."
+      },
+      {
+        "project_name": "Demand forecasting pipeline",
+        "technologies": [
+          "TensorFlow",
+          "NumPy",
+          "SQL"
+        ],
+        "description": "LSTM forecasts from warehouse data.",
+        "outcomes": ""
+      }
+    ],
+    "target_job_id": "J002",
+    "review": {},
+    "notes": "",
+    "created_at": "2026-09-06T14:40:00"
+  },
+  {
+    "candidate_id": "C008",
+    "name": "Meera Joshi",
+    "email": "meera.joshi@gmail.com",
+    "phone": "9765512345",
+    "experience_years": 2.0,
+    "education_level": "Bachelor's",
+    "degree": "B.Tech in Information Technology",
+    "skills": [
+      "python programming",
+      "ML",
+      "sklearn",
+      "pandas",
+      "numpy",
+      "Postgres",
+      "Matplotlib"
+    ],
+    "experience_summary": "",
+    "projects": [
+      {
+        "project_name": "Loan default classifier",
+        "technologies": [
+          "python",
+          "sklearn",
+          "pandas"
+        ],
+        "description": "Classification model on a class-imbalanced credit dataset, tuned with cross-validation.",
+        "outcomes": "Recall on defaulters improved from 0.61 to 0.78."
+      }
+    ],
+    "target_job_id": "J002",
+    "review": {},
+    "notes": "",
+    "created_at": "2026-09-09T16:15:00"
+  },
+  {
+    "candidate_id": "C015",
+    "name": "Siddharth Rao",
+    "email": "siddharth.rao@outlook.com",
+    "phone": "9900112233",
+    "experience_years": 0.5,
+    "education_level": "Diploma",
+    "degree": "Diploma in Computer Engineering",
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "Keras",
+      "NumPy",
+      "Pandas",
+      "Docker",
+      "Scikit-learn",
+      "SQL"
+    ],
+    "experience_summary": "",
+    "projects": [
+      {
+        "project_name": "Open-source image classifier",
+        "technologies": [
+          "Python",
+          "TensorFlow",
+          "NumPy",
+          "Docker"
+        ],
+        "description": "Maintainer of a small deep learning library for image classification.",
+        "outcomes": "About 300 stars on GitHub and two external contributors."
+      },
+      {
+        "project_name": "Sales forecasting API",
+        "technologies": [
+          "Scikit-learn",
+          "Pandas",
+          "SQL",
+          "Docker"
+        ],
+        "description": "End-to-end machine learning pipeline served behind a containerised Flask API.",
+        "outcomes": ""
+      }
+    ],
+    "target_job_id": "J002",
+    "review": {},
+    "notes": "",
+    "created_at": "2026-09-12T13:10:00"
+  },
+  {
+    "candidate_id": "C018",
+    "name": "Kabir Malhotra",
+    "email": "kabir.malhotra@gmail.com",
+    "phone": "9810098765",
+    "experience_years": 9.0,
+    "education_level": "Master's",
+    "degree": "MBA in Business Analytics",
+    "skills": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "R",
+      "SAS",
+      "Excel",
+      "Predictive Modeling"
+    ],
+    "experience_summary": "Nine years in business analytics; led the pricing analytics team at a retail group.",
+    "projects": [],
+    "target_job_id": "J002",
+    "review": {},
+    "notes": "",
+    "created_at": "2026-09-08T09:00:00"
+  },
+  {
+    "candidate_id": "C010",
+    "name": "Fatima Shaikh",
+    "email": "fatima.shaikh@gmail.com",
+    "phone": "9892012345",
+    "experience_years": 4.0,
+    "education_level": "PhD",
+    "degree": "PhD in Signal Processing",
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "NumPy",
+      "Statistics",
+      "MATLAB"
+    ],
+    "experience_summary": "",
+    "projects": [
+      {
+        "project_name": "Speech emotion recognition thesis",
+        "technologies": [
+          "Python",
+          "PyTorch",
+          "NumPy"
+        ],
+        "description": "Deep learning models for audio classification.",
+        "outcomes": "Published at a national conference."
+      }
+    ],
+    "target_job_id": "J002",
+    "review": {},
+    "notes": "",
+    "created_at": "2026-09-13T11:45:00"
+  },
+  {
+    "candidate_id": "C004",
+    "name": "Sneha Kulkarni",
+    "email": "sneha.kulkarni@yahoo.in",
+    "phone": "9765012345",
+    "experience_years": 4.0,
+    "education_level": "Bachelor's",
+    "degree": "B.E. in Computer Engineering",
+    "skills": [
+      "Python",
+      "Django",
+      "REST APIs",
+      "PostgreSQL",
+      "Git",
+      "Redis",
+      "Celery"
+    ],
+    "experience_summary": "Four years as a backend developer at a logistics company.",
+    "projects": [
+      {
+        "project_name": "Order management API",
+        "technologies": [
+          "Django",
+          "REST APIs",
+          "PostgreSQL"
+        ],
+        "description": "Production API used by 3 warehouses.",
+        "outcomes": ""
+      }
+    ],
+    "target_job_id": "J003",
+    "review": {},
+    "notes": "",
+    "created_at": "2026-09-06T10:30:00"
+  },
+  {
+    "candidate_id": "C009",
+    "name": "Arjun Reddy",
+    "email": "arjun.reddy@gmail.com",
+    "phone": "9848012345",
+    "experience_years": 1.0,
+    "education_level": "Bachelor's",
+    "degree": "BCA",
+    "skills": [
+      "Python",
+      "Flask",
+      "Git",
+      "SQL"
+    ],
+    "experience_summary": "One year maintaining internal Flask tools.",
+    "projects": [],
+    "target_job_id": "J003",
+    "review": {},
+    "notes": "",
+    "created_at": "2026-09-15T17:20:00"
+  },
+  {
+    "candidate_id": "C019",
+    "name": "Nisha Verghese",
+    "email": "nisha.verghese@proton.me",
+    "phone": "9447098765",
+    "experience_years": 1.5,
+    "education_level": "High School",
+    "degree": "Higher Secondary (self-taught developer)",
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Linux"
+    ],
+    "experience_summary": "",
+    "projects": [
+      {
+        "project_name": "Clinic booking backend",
+        "technologies": [
+          "Django",
+          "PostgreSQL"
+        ],
+        "description": "Freelance appointment-booking service exposing RESTful APIs built with Django REST Framework.",
+        "outcomes": "Deployed with Docker Compose on a single VPS; serves three clinics."
+      },
+      {
+        "project_name": "Open-source contributions",
+        "technologies": [
+          "Python",
+          "Git"
+        ],
+        "description": "Merged pull requests to two Django packages.",
+        "outcomes": ""
+      }
+    ],
+    "target_job_id": "J003",
+    "review": {},
+    "notes": "",
+    "created_at": "2026-09-17T10:10:00"
+  },
+  {
+    "candidate_id": "C011",
+    "name": "Devansh Gupta",
+    "email": "devansh.gupta@gmail.com",
+    "phone": "9812398765",
+    "experience_years": 7.0,
+    "education_level": "Bachelor's",
+    "degree": "B.Tech in Computer Science",
+    "skills": [
+      "Python",
+      "Flask",
+      "PostgreSQL",
+      "Git",
+      "Linux",
+      "Jenkins"
+    ],
+    "experience_summary": "Seven years of backend work in fintech.",
+    "projects": [
+      {
+        "project_name": "Payments service migration",
+        "technologies": [
+          "Python",
+          "PostgreSQL"
+        ],
+        "description": "Moved a legacy payments service to Python and containerised it with Docker.",
+        "outcomes": ""
+      }
+    ],
+    "target_job_id": "J003",
+    "review": {},
+    "notes": "",
+    "created_at": "2026-09-10T14:00:00"
+  },
+  {
+    "candidate_id": "C020",
+    "name": "Aditya Sharma",
+    "email": "aditya.sharma@example.com",
+    "phone": "",
+    "experience_years": 1.0,
+    "education_level": "Bachelor's",
+    "degree": "B.Tech Computer Science",
+    "skills": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "Machine Learning"
+    ],
+    "experience_summary": "",
+    "projects": [
+      {
+        "project_name": "Retail Demand Prediction",
+        "technologies": [
+          "Python",
+          "Pandas",
+          "Scikit-learn",
+          "PostgreSQL"
+        ],
+        "description": "Built a demand prediction pipeline using historical sales data, feature engineering and regression models.",
+        "outcomes": "Improved forecasting workflow and automated data preprocessing."
+      }
+    ],
+    "target_job_id": "J002",
+    "review": {
+      "assessment": "Possible fit",
+      "reviewed_at": "2026-09-29T22:29:43"
+    },
+    "notes": "QA: project evidence checked.",
+    "created_at": "2026-09-29T22:29:09"
+  },
+  {
+    "candidate_id": "C021",
+    "name": "Kavya Menon",
+    "email": "kavya.menon@gmail.com",
+    "phone": "9447012345",
+    "experience_years": 2.5,
+    "education_level": "Bachelor's",
+    "degree": "B.Tech in Information Technology",
+    "skills": [
+      "Python",
+      "Scikit-learn",
+      "Pandas",
+      "NumPy",
+      "Docker"
+    ],
+    "experience_summary": "",
+    "projects": [
+      {
+        "project_name": "Fraud detection model",
+        "technologies": [
+          "Python",
+          "Scikit-learn",
+          "Docker"
+        ],
+        "description": "",
+        "outcomes": ""
+      }
+    ],
+    "target_job_id": "J002",
+    "review": {},
+    "notes": "",
+    "created_at": "2026-09-29T22:38:14"
+  }
+]
