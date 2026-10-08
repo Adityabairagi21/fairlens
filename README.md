@@ -8,6 +8,12 @@
 
 Python · NumPy · Pandas · Streamlit · rule-based (no machine-learning model, no external API) · 95 unit tests
 
+## 🎥 Video walkthrough
+
+**[Download the video walkthrough (MP4, 50 min, 720p, 944 MB)](https://github.com/Adityabairagi21/fairlens/releases/download/v1.0/FairLens_Final_Video.mp4)** · [Release page](https://github.com/Adityabairagi21/fairlens/releases/tag/v1.0)
+
+The video covers the basic code explanation, the end-to-end request flow, the purpose of each code file (main classes and functions), and a live demo of every page and chart.
+
 ---
 
 ## Contents
